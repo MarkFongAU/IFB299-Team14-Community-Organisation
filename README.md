@@ -1,6 +1,4 @@
-FB299 Community Organization
-## Team 14 
-discription here I guess
+IFB299 Community Organization
 
 ## Dependencies
 * [Django](https://www.djangoproject.com/)
